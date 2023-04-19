@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Mix-->
+    <color name="primary">#9CAC6F</color>
+    <color name="color_photo">#6c7055</color>
+    <color name="bianco">#FFFFFF</color>
+    <color name="bianco_sporco">#86050505</color>
+    <color name="primary_dark">#273EB0</color>
+    <color name="accent">#2745B0</color>
+    <color name="accent_dark">#2749B0</color>
+    <color name="total_black">#050505</color>
+
+
+    <!-- *********************************************
+                STILE BOTTONI
+     ********************************************* -->
+    <color name="bottone_normale">@color/accent</color>
+    <color name="bottone_selezionato">@color/primary_dark</color>
+    <color name="bottone_disabilitato">#050505</color>
+
+</resources>

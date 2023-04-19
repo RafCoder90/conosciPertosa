@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/relativeLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:rotationX="0">
+
+                <ImageView
+                    android:id="@+id/immagineHome"
+                    android:layout_width="match_parent"
+                    android:layout_height="330dp"
+                    android:adjustViewBounds="false"
+                    android:cropToPadding="false"
+                    android:scaleType="centerCrop"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/benvenuto"
+                    tools:ignore="MissingConstraints" />
+
+                <TextView
+                    android:id="@+id/testoHome"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="25dp"
+                    android:elevation="30dp"
+                    android:paddingRight="5dp"
+                    android:text="@string/StringaPertosa"
+                    android:textColor="@color/bianco"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    app:elevation="40dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/immagineHome"
+                    app:layout_constraintEnd_toEndOf="@+id/immagineHome"
+                    app:layout_constraintHorizontal_bias="0.96"
+                    app:layout_constraintStart_toStartOf="@+id/immagineHome"
+                    tools:ignore="MissingConstraints" />
+
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/bottoneProgetto"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="24dp"
+                    android:clickable="true"
+                    android:paddingBottom="150dp"
+                    android:scaleX="1.2"
+                    android:scaleY="1.2"
+                    app:backgroundTint="#9CAC6F"
+                    app:elevation="5dp"
+                    app:fabSize="normal"
+                    app:hoveredFocusedTranslationZ="70dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.498"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/testoHome"
+                    app:layout_constraintVertical_bias="0.0"
+                    app:srcCompat="@drawable/caverna"
+                    app:useCompatPadding="false" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="@+id/bottoneProgetto"
+                    tools:ignore="MissingConstraints">
+
+                    <Button
+                        android:id="@+id/bottonePertosa"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.5"
+                        android:background="@drawable/bottone_radius_top_left"
+                        android:text="@string/StringaPertosa"
+                        android:textSize="10dp" />
+
+                    <Button
+                        android:id="@+id/bottoneSocial"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.5"
+                        android:background="@drawable/bottone_radius_top_right"
+                        android:text="@string/StringaSocial"
+                        android:textSize="10dp" />
+                </LinearLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="vertical"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="0"
+                    android:background="@drawable/layout_principale"
+                    android:elevation="50dp"
+                    android:orientation="horizontal"
+                    android:paddingTop="45dp"
+                    android:paddingBottom="45dp">
+
+                    <TextView
+                        android:id="@+id/testoHomePage"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:fontFamily="More Fonts..."
+                        android:freezesText="true"
+                        android:text="@string/StringaBenvenuto"
+                        android:textColor="@color/total_black"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="35dp"
+                    android:background="@drawable/bottone_radius_upper"
+                    android:rotationX="0">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:fontFamily="More Fonts..."
+                        android:freezesText="true"
+                        android:text="@string/StringaConosciPertosa"
+                        android:textColor="@color/bianco"
+                        android:textStyle="bold"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        tools:ignore="MissingConstraints" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@drawable/layout_principale"
+                    >
+
+                    <HorizontalScrollView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent">
+
+                        <androidx.constraintlayout.widget.ConstraintLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/layout_principale"
+                            android:rotationX="0">
+
+                            <ImageView
+                                android:id="@+id/immagineCosaVisitare"
+                                android:layout_width="173dp"
+                                android:layout_height="147dp"
+                                android:layout_marginStart="45dp"
+                                android:layout_marginTop="25dp"
+                                android:layout_marginBottom="25dp"
+                                android:scaleType="centerCrop"
+                                android:src="@drawable/_6_foto_grotte_di_pertosa_auletta_ippolito_pilia_pit9448_1030x687"
+                                app:layout_constraintBottom_toBottomOf="parent"
+                                app:layout_constraintStart_toStartOf="parent"
+                                app:layout_constraintTop_toTopOf="parent"
+                                app:layout_constraintVertical_bias="0.376" />
+
+                            <Button
+                                android:id="@+id/bottoneCosaVisitare"
+                                android:layout_width="76dp"
+                                android:layout_height="24dp"
+                                android:layout_marginBottom="5dp"
+                                android:background="@drawable/bottone_radius_total"
+                                android:text="@string/StringaCosaVisitare"
+                                android:textSize="8dp"
+                                app:layout_constraintBottom_toBottomOf="@+id/immagineCosaVisitare"
+                                app:layout_constraintEnd_toEndOf="@+id/immagineCosaVisitare"
+                                app:layout_constraintStart_toStartOf="@+id/immagineCosaVisitare" />
+
+                            <ImageView
+                                android:id="@+id/immagineEventi"
+                                android:layout_width="173dp"
+                                android:layout_height="147dp"
+                                android:layout_marginStart="45dp"
+                                android:scaleType="centerCrop"
+                                android:src="@drawable/pexels_photo_7585563"
+                                app:layout_constraintBottom_toBottomOf="@+id/immagineCosaVisitare"
+                                app:layout_constraintStart_toEndOf="@+id/immagineCosaVisitare"
+                                app:layout_constraintTop_toTopOf="@+id/immagineCosaVisitare"
+                                app:layout_constraintVertical_bias="1.0"
+                                tools:ignore="MissingConstraints" />
+
+                            <Button
+                                android:id="@+id/bottoneEventi"
+                                android:layout_width="76dp"
+                                android:layout_height="24dp"
+                                android:layout_marginBottom="5dp"
+                                android:background="@drawable/bottone_radius_total"
+                                android:text="@string/StringaEventi"
+                                android:textSize="8dp"
+                                app:layout_constraintBottom_toBottomOf="@+id/immagineEventi"
+                                app:layout_constraintEnd_toEndOf="@+id/immagineEventi"
+                                app:layout_constraintStart_toStartOf="@+id/immagineEventi" />
+
+                            <ImageView
+                                android:id="@+id/immagineComeRaggiungerci"
+                                android:layout_width="173dp"
+                                android:layout_height="147dp"
+                                android:layout_marginStart="45dp"
+                                android:layout_marginEnd="45dp"
+                                android:scaleType="centerCrop"
+                                android:src="@drawable/pexels_pixabay_52531"
+                                app:layout_constraintBottom_toBottomOf="@+id/immagineRistoro"
+                                app:layout_constraintEnd_toEndOf="parent"
+                                app:layout_constraintStart_toEndOf="@+id/immagineRistoro"
+                                app:layout_constraintTop_toTopOf="@+id/immagineRistoro"
+                                tools:ignore="MissingConstraints" />
+
+
+                            <ImageView
+                                android:id="@+id/immagineRistoro"
+                                android:layout_width="173dp"
+                                android:layout_height="147dp"
+                                android:layout_marginStart="45dp"
+                                android:scaleType="centerCrop"
+                                android:src="@drawable/puntiristoro"
+                                app:layout_constraintBottom_toBottomOf="@+id/immagineEventi"
+                                app:layout_constraintStart_toEndOf="@+id/immagineEventi"
+                                app:layout_constraintTop_toTopOf="@+id/immagineEventi"
+                                app:layout_constraintVertical_bias="0.0"
+                                tools:ignore="MissingConstraints" />
+
+                            <Button
+                                android:id="@+id/bottoneComeRaggiungerci"
+                                android:layout_width="76dp"
+                                android:layout_height="24dp"
+                                android:layout_marginBottom="5dp"
+                                android:background="@drawable/bottone_radius_total"
+                                android:text="@string/StringaComeRaggiungerci"
+                                android:textSize="8dp"
+                                app:layout_constraintBottom_toBottomOf="@+id/immagineComeRaggiungerci"
+                                app:layout_constraintEnd_toEndOf="@+id/immagineComeRaggiungerci"
+                                app:layout_constraintStart_toStartOf="@+id/immagineComeRaggiungerci" />
+
+                            <Button
+                                android:id="@+id/bottoneRistoro"
+                                android:layout_width="76dp"
+                                android:layout_height="24dp"
+                                android:layout_marginBottom="5dp"
+                                android:background="@drawable/bottone_radius_total"
+                                android:text="@string/StringaPuntiRistoro"
+                                android:textSize="8dp"
+                                app:layout_constraintBottom_toBottomOf="@+id/immagineRistoro"
+                                app:layout_constraintEnd_toEndOf="@+id/immagineRistoro"
+                                app:layout_constraintStart_toStartOf="@+id/immagineRistoro" />
+
+                        </androidx.constraintlayout.widget.ConstraintLayout>
+
+                    </HorizontalScrollView>
+
+                </LinearLayout>
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="35dp"
+                    android:background="@drawable/bottone_radius_upper"
+                    android:rotationX="0">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:fontFamily="More Fonts..."
+                        android:freezesText="true"
+                        android:text="@string/StringaContatti"
+                        android:textColor="@color/bianco"
+                        android:textStyle="bold"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        tools:ignore="MissingConstraints" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:layout_weight="0"
+                    android:background="@drawable/layout_principale"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Comune di Pertosa"
+                        android:textStyle="bold"
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="3dp"
+                        android:background="?android:attr/listDivider" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Via S.Maria\n84030 Pertosa(SA)\n0975397028\n0975397067"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/StringaComunePertosa"
+                        android:autoLink="web"
+                        android:linksClickable="true"
+                        />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Fondazione Mida"
+                        android:textStyle="bold"
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="3dp"
+                        android:background="?android:attr/listDivider" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Via Muraglione 18-20\n84030 Pertosa(SA)\n0975397037\ninfo@fondazionemida.it\prenotazioni@fondazionemida.it"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/StringaFondazioneMida"
+                        android:autoLink="web"
+                        android:linksClickable="true"
+                        />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                android:background="@color/bianco">
+
+                <ImageView
+                    android:id="@+id/immagineLogoPertosa"
+                    android:layout_width="87dp"
+                    android:layout_height="90dp"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginTop="15dp"
+                    android:scaleType="centerInside"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/comunepertosa" />
+
+                <ImageView
+                    android:id="@+id/immagineLogoComumnico"
+                    android:layout_width="91dp"
+                    android:layout_height="86dp"
+                    android:layout_marginTop="15dp"
+                    android:scaleType="centerInside"
+                    app:layout_constraintEnd_toStartOf="@+id/immagineLogoCampania"
+                    app:layout_constraintStart_toEndOf="@+id/immagineLogoPertosa"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/communico" />
+
+                <ImageView
+                    android:id="@+id/immagineLogoZiMarianna"
+                    android:layout_width="87dp"
+                    android:layout_height="90dp"
+                    android:layout_marginTop="35dp"
+                    android:layout_marginBottom="15dp"
+                    android:scaleType="centerInside"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="@+id/immagineLogoComumnico"
+                    app:layout_constraintStart_toStartOf="@+id/immagineLogoComumnico"
+                    app:layout_constraintTop_toBottomOf="@+id/immagineLogoComumnico"
+                    app:srcCompat="@drawable/_8951022_1443242152410289_5144085449380830359_n" />
+
+
+                <ImageView
+                    android:id="@+id/immagineLogoCampania"
+                    android:layout_width="87dp"
+                    android:layout_height="90dp"
+                    android:layout_marginTop="16dp"
+                    android:scaleType="centerInside"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/logo_regione_campania" />
+
+                <ImageView
+                    android:id="@+id/immagineLogoConfartigianato"
+                    android:layout_width="87dp"
+                    android:layout_height="90dp"
+                    android:layout_marginTop="15dp"
+                    android:scaleType="centerInside"
+                    app:layout_constraintEnd_toStartOf="@+id/immagineLogoJobiz"
+                    app:layout_constraintStart_toEndOf="@+id/immagineLogoCampania"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/loghi_ass__confartigianato_campania__350w" />
+
+                <ImageView
+                    android:id="@+id/immagineLogoMida"
+                    android:layout_width="87dp"
+                    android:layout_height="90dp"
+                    android:layout_marginTop="35dp"
+                    android:scaleType="centerInside"
+                    app:layout_constraintEnd_toEndOf="@+id/immagineLogoConfartigianato"
+                    app:layout_constraintStart_toStartOf="@+id/immagineLogoConfartigianato"
+                    app:layout_constraintTop_toBottomOf="@+id/immagineLogoConfartigianato"
+                    app:srcCompat="@drawable/mida" />
+
+                <ImageView
+                    android:id="@+id/immagineLogoJobiz"
+                    android:layout_width="87dp"
+                    android:layout_height="90dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:scaleType="centerInside"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/jobiz_formazione" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

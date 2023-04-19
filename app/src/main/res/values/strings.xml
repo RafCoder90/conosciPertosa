@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Conosci Pertosa</string>
+    <string name="StringInformazioni">Informazioni</string>
+    <string name="StringaProgetto">Come nasce il Progetto</string>
+    <string name="StringaIlProgetto">Il Progetto</string>
+    <string name="StringaMessaggioInformazioniApplicazione1">Il progetto Benessere Giovani Un percorso tra ambiente, suolo e sottosuolo: giovani a confronto con le bellezze della natura, finanziato dalla Regione Campania e
+    gestito dal Comune di Pertosa insieme a Jobiz Formazione S.r.l, Communico S.r.l.s, Fondazione MidA, Confartigianato e Ristorante Zi Marianna, mira a sensibilizzare e ad accompagnare
+    i giovani di età compresa tra i 16 e 35 anni alla cultura d\'impresa.\n\n\n
+        Il progetto ha previsto diversi laboratori, tra cui il Laboratorio di  Tecnologia/multimediale per la creazione di App - della durata di 45h - che nasce dall\' idea di voler creare uno
+        spazio didattico multimediale volto a trasmettere ai partecipanti conoscenze teoriche e pratiche sulle principali applicazioni informatiche per poter utilizzare al meglio le nuove tecnologie e produrre
+        contenuti multimediali, a sostegno del pensiero critico, della creatività e dell\'innovazione.
+        Protagonisti di questo progetto didattico sono stati i ragazzi che, chiamati a mettersi in gioco, collaborare e ad esprimere la loro creatività, hanno sviluppato l\'applicazione CONOSCI PERTOSA.
+        nL\' app Conosci Pertosa nasce con lo scopo di far scoprire il terriotorio di Pertosa (SA), meta turistica per le sue spettacolari
+    Grotte di Pertosa-Auletta e i Musei Speleo-Archeologico del Suolo, gestiti della Fondazione Mida.\nPer visitare questi siti turistici il Comune ha, di recente, messo a disposizione un servizio di bike sharing, uno strumento di mobilità sostenibile per incentivare i cittadini ad abbracciare uno stile di vita più sostenibile per incentivare i cittadini ad abbracciare uno stile di vita più sostenibile e offrire ai
+    turisti un\'alternativa per visitare il paese. L\'app al suo interno garantirà tutte le istruzioni di viabilità utili per raggiungere Pertosa e offrirà, a chi vorrà sostare
+    nel territorio, punti di ristoro e di pernottamento, dove si potranno degustare piatti a base di prodotti tipici, tra cui il carciofo di Pertosa, presidio Slow Food.</string>
+    <string name="StringaMessaggioInformazioniApplicazione">Il progetto Benessere Giovani “Un percorso tra ambiente, suolo e sottosuolo: giovani a confronto con le bellezze della natura”, finanziato dalla Regione Campania e gestito dal Comune di Pertosa insieme a Jobiz Formazione S.r.l., Communico S.r.l.s., Fondazione MIdA, Confartigianato e Ristorante Zi Marianna, mira a sensibilizzare e ad accompagnare i giovani di età compresa tra i 16 e i 35 anni alla cultura d’impresa.
+    Il progetto ha previsto diversi laboratori, tra cui il Laboratorio di “Tecnologia/multimediale per la creazione di App” - della durata di 45h - che nasce dall’idea di voler creare uno spazio didattico multimediale volto a trasmettere ai partecipanti conoscenze teoriche e pratiche sulle principali applicazioni informatiche per poter utilizzare al meglio le nuove tecnologie e produrre contenuti multimediali, a sostegno del pensiero critico, della creatività e dell’innovazione.
+    Protagonisti di questo progetto didattico sono stati i ragazzi che, chiamati a mettersi in gioco, collaborare e ad esprimere la loro creatività, hanno sviluppato l’applicazione CONOSCI PERTOSA.
+    L’applicazione ”Conosci Pertosa” nasce con lo scopo di far scoprire il territorio di Pertosa (SA), meta turistica per le sue spettacolari Grotte di Pertosa-Auletta e i Musei Speleo-Archeologico e del Suolo, gestiti dalla Fondazione MIdA. Per visitare questi siti turistici, il Comune ha, di recente, messo a disposizione un servizio di bike sharing, uno strumento di mobilità eco friendly per incentivare i cittadini ad abbracciare uno stile di vita più sostenibile e offrire ai turisti un’alternativa per visitare il paese.
+    L’app, al suo interno, garantirà tutte le istruzioni di viabilità utili per raggiungere Pertosa e indicherà, a chi vorrà sostare nel territorio, punti di ristoro dove si potranno degustare piatti realizzati con prodotti tipici, tra cui il carciofo di Pertosa, presidio Slow Food.
+    </string>
+    <string name="StringaMessaggioInformazioniSviluppatori">Marianna De Nigris\nMaria Raffaela Ciliberti\nPasquale Giachetta</string>
+    <string name="StringaInfromazioniSviluppatori">Chi ha sviluppato l\'app</string>
+    <string name="StringaNascitaProgetto">Come nasce il progetto</string>
+    <string name="StringaPertosa">PERTOSA</string>
+    <string name="StringaSocial">SOCIAL</string>
+    <string name="StringaBenvenuto">Benvenuto nella nostra app</string>
+    <string name="StringaConosciPertosa">CONOSCI PERTOSA</string>
+    <string name="StringaContatti">Contatti</string>
+    <string name="StringaCosaVisitare">Cosa Visitare</string>
+    <string name="StringaEventi">Eventi</string>
+    <string name="StringaComeRaggiungerci">Come Raggiungerci</string>
+    <string name="StringaPuntiRistoro">Punti Ristoro</string>
+    <string name="StringaDallAutostrada">Dall\'autostrada A3 SA-RC</string>
+    <string name="StringaDettagliAutostrada">uscita PETINA (in direzione Nord) o uscita POLLA (in direzione SUD) ed immettersi sulla s.s. 19 delle CALABRIE seguendo le indicazioni per le \"GROTTE DELL\'ANGELO\" - PERTOSA (SA).</string>
+    <string name="StringaDallaBasentana">Dalla \"BASENTANA\" Sicignano-Potenza</string>
+    <string name="StringaDettagliBasentana">uscita BUCCINO e seguire le indicazioni per le \"GROTTE DELL\'ANGELO\" - PERTOSA (SA).</string>
+    <string name="StringaDallAeroPorto">Dall\'Aeroporto di Napoli (km130)</string>
+    <string name="StringaDettagliAereoPorto">immettersi sulla A3 SA-RC direzione sud, uscita PETINA.</string>
+    <string name="StringaDaStazioneSalerno">Dalla Stazione di Salerno (km70)</string>
+    <string name="StringaDettagliStazione">collegamento ferroviario da SALERNO a SICIGNANO SCALO e servizio sostitutivo F.S da SICIGNANO SCALO a PERTOSA.</string>
+    <string name="StringaRistoranteVillaDelleRose">Ristorate pizzeria Villa delle Rose</string>
+    <string name="StringaRistoranteVillaDelleRoseDettagli">Pizze tradizionali e piatti tipici della zona\nContrada Aranci Sopra\nPertosa(SA)\ntel 0975397262</string>
+    <string name="StringaRistoranteZiMarianna">Hotel ristorante Zi Marianna</string>
+    <string name="StringaRistoranteZiMariannaDettagli">Piatti tipici della zona.\nCamere disponibili per pernottare.\nContrada Muraglione 9\nPertosa (SA)\ntel 0975397044</string>
+    <string name="StringaRistoranteVenosa">Ristorante bar Venosa</string>
+    <string name="StringaRistoranteVenosaDettagli">Piatti tipici e menù turisitici per visitatori delle Grotte di Pertosa Auletta.\nContrada Muraglione 6\nPertosa (SA).\ntel 0975397009</string>
+    <string name="StringaBarV">Bar BarV</string>
+    <string name="StringaBarVDettagli">Bar, Panini e Aperitivi.\nPiazza De Marco 9 Pertosa (SA).</string>
+    <string name="StringaBarRioNegro">Bar Rio Negro</string>
+    <string name="StringaBarRioNegroDettagli">Panini preparati con prodotti tipici e bibite.\n Via muraglione (piazzale grotte di Pertosa).\nPertosa(SA)\n3281089740.</string>
+    <string name="StringaSpeleoBar">SpeleoBar</string>
+    <string name="StringaSpeleoBarDettagli">Bar, Panini e prodotti tipici.\nFondazione Mida.\nVia Muraglione.\nPertosa(SA).</string>
+    <string name="StringaRistoranteVenosaUrl">www.ristorantevenosa.it</string>
+    <string name="StringaEventoCarciofo">Sagra del carciofo</string>
+    <string name="StringaEventoCarciofoDettagli">una manifestazione ricca di attività oggi,nata inizialmente con l’obiettivo di valorizzare un prodotto che stava ormai scomparendo dalle nostre tavole e tradizioni culinarie ma,che oggi è divenuta presidio slow food e alimento cardine della Dieta Mediterranea.</string>
+    <string name="StringaEventoCarciofoPeriodo">Aprile-Maggio</string>
+    <string name="StringaEventoVociDellaTerra">Festival Voci della Terra</string>
+    <string name="StringaEventoVociDellaTerraPeriodo">Settembre</string>
+    <string name="StringaEventoVociDellaTerraDettagli">una manifestazione ideata dalla Fondazione Mida in sinergia con i comuni e le proloco di Pertosa ed Auletta, dove musica, storia, mostre, gastronomia e attività laboratoriali animano il borgo nel mese di settembre</string>
+    <string name="StringaEventoTeatroECinemaInGrotta">Teatro e Cinema in Grotta</string>
+    <string name="StringaEventoTeatroECinemaInGrottaPeriodo">Tutto l\'anno</string>
+    <string name="StringaEventoTeatroECinemaInGrottaDettagli">le Grotte di Pertosa fanno da cornice a numerosi spettacoli teatrali e proiezioni cinematografiche durante tutto l’anno.</string>
+    <string name="StringaCosaVisitareGrotte">Le Grotte di Pertosa Auletta</string>
+    <string name="StringaCosaVisitareMore">Scopri</string>
+    <string name="StringaCosaVisitareMuseoSpeleo">Il Museo Speleo-Archeologico</string>
+    <string name="StringaCosaVisitareMuseoSuolo">Il Museo del Suolo</string>
+    <string name="StringaCosaVisitareMoreLocalita">Vicino a noi</string>
+    <string name="StringaChiama">Call</string>
+    <string name="StringaAltriAttrattori">Altri Attrattori</string>
+    <string name="StringaCastelloAragonese">Castello Aragonese Angioino di Agropoli</string>
+    <string name="StringaCastelloArechi">Castello Arechi Salerno</string>
+    <string name="StringaAgropoli">Agropoli (SA)</string>
+    <string name="StringaSalerno">Salerno</string>
+    <string name="StringaCertosaDiPadula">Certosa di San Lorenzo</string>
+    <string name="StringaPadula">Padula (SA)</string>
+    <string name="StringaMuseoCognomePadula">Museo del Cognome</string>
+    <string name="StringaGrotteDiCastelcivita">Grotte di CastelCivita</string>
+    <string name="StringaCastelcivita">Castecivita (SA)</string>
+    <string name="StringaGrotteDiPalinuro">Grotte di Palinuro</string>
+    <string name="StringaPalinuro">Palinuro (SA)</string>
+    <string name="StringaMuseoArcheologicoEtruschi">Museo Archeologico Nazionale degli Etruschi</string>
+    <string name="StringaPontecagnano">Pontecagnano (SA)</string>
+    <string name="StringaMuseoArcheologicoEboli">Museo Archeologico Nazionale Eboli</string>
+    <string name="StrinaEboli">Eboli (SA)</string>
+    <string name="StringaMuseoCivicoRoccogloriosa">Museo Civico Archeologico Roccagloriosa</string>
+    <string name="StringaRoccagloriosa">Roccagloriosa (SA)</string>
+    <string name="StringaMuseoGiovanniPalatucci">Museo Giovanni Palatucci Campagna</string>
+    <string name="StringaCampagna">Campgana (SA)</string>
+    <string name="StringaMuseoHeraArgivaCapaccio">Museo Hera Argiva Capaccio</string>
+    <string name="tringaCapaccio">Capaccio (SA)</string>
+    <string name="StringaOasiWWFPersano">Oasi WWF Persano</string>
+    <string name="StringaPersano">Persano (SA)</string>
+    <string name="StringaParcoArcheologicoPaestum">Parco Archeologioc di Paestum</string>
+    <string name="StringPaestum">Paestum (SA)</string>
+    <string name="StringaParcoArcheologicoVeliaAscea">Parco Archeologico di Velia Ascea</string>
+    <string name="StringAsceMarina">Ascea (SA)</string>
+    <string name="StringaParcoArcheologicoErcolano">Parco Archeologico di Ercolano</string>
+    <string name="StringaErcolano">"Ercolano (NA) "</string>
+    <string name="StringaParcoNazionaleVesuvio">Parco Nazionale del Vesuvio</string>
+    <string name="StringaOttaviano">Ottaviano (NA)</string>
+    <string name="StringaReggiaCaserta">Reggia di Caserta</string>
+    <string name="StringaCaserta">Caserta (CE)</string>
+    <string name="StringaCosaVisitareGrotteDettagli">Le Grotte di Pertosa-Auletta sono un complesso di cavità carsiche situate nella provincia di Salerno,  all\'interno del Parco Nazionale del Cilento e del Vallo di Diano. Sono le Grotte più importanti in termini di estensione e rilevanza storica del Sud d’Italia. La bellezza naturalistica di queste grotte è fruibile attraverso un’imbarcazione trainata da un cavo d’acciaio che rende la visita molto suggestiva. Si tratta di un sito speleologico dove è possibile compiere un\'emozionante traversata in un fiume sotterraneo,  il fiume Negro, che condurrà i visitatori direttamente nel cuore pulsante della montagna che lo ospita, il massiccio montuoso degli Alburni.\nGestito dalla fondazione Mida.</string>
+    <string name="StringaCosaVisitareMuseoSuoloDettagli">Il Museo del Suolo, gestito dalla Fondazione Mida, si trova a pochi passi dalle suggestive Grotte di Pertosa-Auletta.  È l\'unico Museo interamente dedicato al suolo in Italia, che ha l’obiettivo di svelare molteplici dimensioni di una risorsa primaria che è fondamentale conoscere e tutelare. Il Museo è un’esposizione coperta di 1500mq, un’avventura straordinaria da vivere con i 5 sensi. È un racconto sui processi di formazione dei suoli, sui loro rapporti con gli ecosistemi, le comunità viventi e i paesaggi, realizzato attraverso un percorso divertente, interattivo e virtuale articolato in diverse sezioni.\nGestito dalla fondazione Mida.</string>
+    <string name="StringaCosaVisitareMuseoSpeleoDettagli">Il Museo Speleo-Archeologico è allestito nel moderno complesso Mida 1 nel centro storico di Pertosa. Documenta l’eccezionale sito archeologico sommerso rinvenuto nelle grotte, con il suo impianto palafitticolo sotterraneo unico in Europa,  che testimonia le frequentazioni umane riferibili agli ultimi 40000 anni. Il rapporto dell’uomo col mondo sotterraneo a partire dalla preistoria, l\'uso della grotta come ricovero occasionale e ambiente di culto, è narrato attraverso riproduzioni di scenari e momenti di vita preistorica in scala reale, stazioni multimediali interattive, documentari tematici e l’esposizione di una selezione di manufatti archeologici originali rinvenuti in grotta.\nGestito dalla fondazione Mida.</string>
+    <string name="StringaFondazioneMida">www.fondazionemida.com</string>
+    <string name="StringaJobiz">www.jobizformazione.com</string>
+    <string name="StringaComunePertosa">www.comune.pertosa.sa.it</string>
+    <string name="StringaTeggiano">Teggiano</string>
+    <string name="StringaTeggianoDettagli">Teggiano (SA)</string>
+</resources>

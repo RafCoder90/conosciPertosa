@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_bottone_radius_top_left.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\bottone_radius_top_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_caverna.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\caverna.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_venosa.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\venosa.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_persano.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\persano.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_grotte_di_pertosa.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_grotte_di_pertosa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_castelcivita.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\castelcivita.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_bottone_radius_top_right.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\bottone_radius_top_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_teatro_grotte_9.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\teatro_grotte_9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_puntiristoro.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\puntiristoro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_loghi_ass__confartigianato_campania__350w.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\loghi_ass__confartigianato_campania__350w.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\color_bottone.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\color\\bottone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_padulacognome.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\padulacognome.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_museo_speleo_archeologico.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_museo_speleo_archeologico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_museo_speleo_archeologico.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_museo_speleo_archeologico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_pexels_pixabay_52531.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\pexels_pixabay_52531.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_come_raggiungerci.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_come_raggiungerci.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_velia.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\velia.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_cosa_visitare.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_cosa_visitare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_comunepertosa.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\comunepertosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_vesuvio.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\vesuvio.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_tmp.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\tmp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_etruschi.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\etruschi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_roccagloriosa.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\roccagloriosa.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_mappapertosa.PNG.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\mappapertosa.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_palatucci.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\palatucci.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_grotte_di_pertosa.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_grotte_di_pertosa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_grottedipertosa.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\grottedipertosa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_voci_della_terra_9.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\voci_della_terra_9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_progetto.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_progetto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_principale.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_principale.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_come_raggiungerci.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_come_raggiungerci.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_ristoro.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_ristoro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_castelloaragonese.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\castelloaragonese.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_pexels_photo_7585563.jpeg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\pexels_photo_7585563.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_principale.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_principale.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_museodelsuolo.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\museodelsuolo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_bottone_cosa_visitare_total.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\bottone_cosa_visitare_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_altri_attrattori.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_altri_attrattori.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_logomarianna.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\logomarianna.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout-land_vista_principale.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout-land\\vista_principale.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_palinuro.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\palinuro.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_castelloarechi.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\castelloarechi.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_caserta.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\caserta.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_speleobar.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\speleobar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable__6_foto_grotte_di_pertosa_auletta_ippolito_pilia_pit9448_1030x687.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\_6_foto_grotte_di_pertosa_auletta_ippolito_pilia_pit9448_1030x687.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_ercolano.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\ercolano.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_museospeleoarcheologico.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\museospeleoarcheologico.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_sagracarciofo_9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\sagracarciofo_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_layout_principale.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\layout_principale.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_paestum.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\paestum.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_hera.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\hera.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_zimarianna.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\zimarianna.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_benvenuto.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\benvenuto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_eboli.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\eboli.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_bottone_radius_total.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\bottone_radius_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo_regione_campania.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\logo_regione_campania.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_museo_del_suolo.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_museo_del_suolo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable__8951022_1443242152410289_5144085449380830359_n.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\_8951022_1443242152410289_5144085449380830359_n.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_eventi.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_eventi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_eventi.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_eventi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_communico.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\communico.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_mida.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\mida.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_cosa_visitare.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_cosa_visitare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_villadellerose.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\villadellerose.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_padulasanlorenzo.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\padulasanlorenzo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\font_courgette.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\font\\courgette.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_bottone_radius_upper.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\bottone_radius_upper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_progetto.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_progetto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_museo_del_suolo.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_museo_del_suolo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_bottone_riga.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\bottone_riga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_vista_ristoro.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\vista_ristoro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_riga_sezione.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\riga_sezione.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_teggiano.jpg.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\teggiano.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_barv.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\barv.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_prova_9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\prova_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_jobiz_formazione.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\jobiz_formazione.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_altri_attrattori.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout\\activity_altri_attrattori.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\layout-large_vista_principale.xml.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\layout-large\\vista_principale.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable_barrionegro.9.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\drawable\\barrionegro.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

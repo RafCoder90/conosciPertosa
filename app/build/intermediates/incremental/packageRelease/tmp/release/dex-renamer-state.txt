@@ -1,0 +1,4 @@
+#Tue Sep 20 19:14:42 CEST 2022
+base.0=C\:\\Users\\Utente\\Desktop\\Raffaele\\MioCodice\\pertosa\\TemplateAndroid-v0.5\\TemplateAndroid\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
